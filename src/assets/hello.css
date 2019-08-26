@@ -1,0 +1,810 @@
+.bc_tes{
+  background: url(static/background_2.jpg);
+  background-size: 1200px;
+}
+.bc_tes_2{
+  background: url(static/background_3.jpg);
+  background-size: 1200px;
+}
+.gambar_atas{
+  color:#000; line-height: 2;text-align:justify;
+  margin-top:100px;
+}
+@media only screen and (max-width: 600px) {
+  .gambar_atas{
+    color:#000;
+    margin-top:50px;
+    text-align: center;
+    font-size:15px;
+    line-height: 2;
+  }
+}
+.why_travling{
+  margin-top:80px
+}
+@media only screen and (max-width: 600px) {
+  .why_travling{
+    margin-top:20px;
+  }
+}
+@media only screen and(max-width:600px){
+  .header_1{
+    display: none;
+  }
+}
+.why_travling_title{
+  color:#000;
+  font-size:25px;
+  text-align:center
+}
+@media only screen and (max-width:600px){
+  .why_travling_title{
+    color:#000;
+    font-size:20px;
+    text-align:center
+  }
+}
+.why_travling_description{
+  text-align:center;
+  color:#000;
+  margin-top:-30px
+}
+@media only screen and (max-width:600px){
+  .why_travling_description{
+    text-align:center;
+    color:#000;
+    margin-top:-30px;
+    font-size:15px;
+    padding : 0px 10px 0px 10px;
+    line-height:2;
+  }
+}
+.title_why_us{
+  color:#000;font-size:25px;text-align:center;margin-top:30px;
+}
+@media only screen and (max-width:600px){
+  .title_why_us{
+    color:#000;
+    font-size:20px;
+    text-align:center;
+    margin-top:30px;
+  }
+}
+.feature_title{
+  color:Black;font-size:25px;text-align:center
+}
+@media only screen and (max-width:600px){
+  .feature_title{
+      color:Black;
+      font-size:20px;
+      text-align:center;
+  }
+}
+.feature_description{
+  text-align:center;color:black;margin-top:-30px
+}
+@media only screen and (max-width:600px){
+  .feature_description{
+    text-align:center;
+    color:black;
+    margin-top:-30px;
+    font-size:15px;
+  }
+}
+.feature_1{
+  width:70%
+}
+.feature_2{
+  width:85%
+}
+.footer_utama{
+  padding:100px;margin-top:20px;background-color:#0100F0
+}
+.footer_1{
+  margin-top:-30px;
+  line-height: 2;
+}
+.footer_2{
+  text-align:center;
+  color:white;
+  margin-top:-30px;
+}
+.footer_3{
+  text-align:left;
+  color:white;
+}
+@media(max-width:600px){
+  .footer_1{
+    font-size:15px;
+    margin-bottom: 50px;
+  }
+  .footer_2{
+    font-size:15px;
+    margin-bottom: 50px;
+  }
+  .footer_3{
+    font-size:15px;
+
+  }
+  .footer_utama{
+    padding:100px 50px 50px 50px;margin-top:20px;background-color:#0100F0
+  }
+}
+.download_image_2{
+  width:60%;margin-top:260px;positon:absolute;z-index:100;
+}
+.download_image_1{
+  width:80%;margin-top:340px;positon:absolute;z-index:100
+}
+.download_image_2_row{
+  display: none;
+}
+@media (max-width:600px){
+  .download_image_2{
+    positon:absolute;
+    margin-top:200px;
+  }
+  .download_image_1_row{
+    display: none;
+
+  }
+  .download_image_1{
+    width:50%;margin-top:50px;
+  }
+  .download_image_2_row{
+    display: inline;
+  }
+}
+
+.adventure{
+  position:relative;
+  background-color:#fff;
+  height:700px;
+}
+.title_1_adv{
+  margin-top:100px;
+}
+.adventure_title{
+  color:Black;font-size:25px;text-align:center;
+}
+.adventure_des{
+  text-align:center;color:black;margin-top:-30px
+}
+.margin_adventure_1{
+  margin-top:100px;
+}
+@media(max-width:600px){
+  .adventure_des{
+        font-size:15px;
+  }
+  .adventure_title{
+    font-size:20px;
+  }
+  .margin_adventure_1{
+    margin-top:30px;
+  }
+  .title_1_adv{
+    margin-top:50px;
+  }
+  .adventure{
+    height:920px;
+  }
+}
+.gambar_ps{
+  padding-top:8%;
+}
+.download_1{
+  width:300px;
+  height:300px;
+  background-color:#fbfbfb;
+  margin-left:-20px;
+  border-radius:20px;
+}
+.download_2{
+  width:100%;
+  height:300px;
+  background-color:#fbfbfb;
+  margin-left:20px;
+  border-radius:20px;
+}
+@media (max-width:600px){
+  .adventure{
+    height:600px;
+  }
+  .gambar_ps{
+    padding-top:16%;
+  }
+  .download_1{
+    margin:auto;
+    margin-bottom:30px;
+  }
+  .download_2{
+    margin:auto;
+    margin-bottom:30px;
+  }
+}
+
+.coba{
+  width:400px;
+  height:400px;
+  background-color:#f8f8f8;
+  margin:auto;
+}
+@media (max-width:600px){
+  .adventure bc_tes_2{
+    height:200px
+  }
+  .coba{
+    width:400px;
+    height:400px;
+    background-color:#fbfbfb;
+    margin:auto;
+  }
+}
+
+.foto_mtt{
+  padding:50px 50px 0px 50px
+}
+
+@media (max-width:600px){
+  .foto_mtt{
+    padding:0px 0px 0px 0px
+  }
+}
+.foto_mtt_nama{
+  margin-top:35px;text-align:center;font-size:15px;color:#808080;letter-spacing:1px
+}
+.foto_mtt_jabatan{
+  margin-top:-15px;text-align:center;font-size:25px;color:#000;letter-spacing:1px
+}
+@media only screen and (min-width:300px){
+  .foto_mtt_nama{
+    text-align:left;
+  }
+  .foto_mtt_jabatan{
+    text-align:left;
+  }
+}
+@media only screen and (min-width:380px){
+  .foto_mtt_nama{
+    text-align:center;
+  }
+  .foto_mtt_jabatan{
+    text-align:center;
+  }
+}
+
+.meet_the_team{
+  color:#000;text-align:left;margin-top:30px;font-size:30px;positon:absolute;width:500px
+}
+.meet_the_team_2{
+  color:#000;text-align:left;positon:absolute;width:200px;line-height:2
+}
+.bintang{
+  width:100%;
+  position:absolute;
+  z-index:10;
+}
+.travaa_tengah{
+  margin-top:100px;
+}
+.travee_des{
+  positon:absolute;
+  width:250px;
+  text-align:left;
+  line-height:2
+}
+@media only screen and (max-width:600px){
+  .travee_des{
+    width:300px;
+    text-align:center;
+    line-height:2;
+    font-size:15px;
+    margin:auto;
+  }
+}
+.travaa{
+  positon:absolute;
+  width:350px;
+  margin:auto;
+  text-align:center;
+  line-height:2;
+}
+
+@media only screen and (max-width:600px){
+  .travaa{
+    positon:absolute;
+    width:300px;
+    margin:auto;
+    text-align:center;
+    line-height:2;
+    font-size:15px;
+
+  }
+}
+.travoo_title{
+  color:#0100F0;text-align:left;margin-top:0px;
+}
+@media only screen and (max-width:600px){
+  .travoo_title{
+    color:#0100F0;text-align:center;margin-top:30px;font-size:20px;
+  }
+}
+.travoo_margin{
+margin-left: -80px ;
+margin-right: 70px;
+}
+
+.travee_margin{
+margin-left: -30px ;
+}
+
+.travoo{
+  positon:absolute;
+  width:260px;
+  text-align:left;
+  line-height:2;
+}
+@media only screen and (max-width:600px){
+  .travee_margin{
+  margin:auto;
+  }
+  .travoo_margin{
+    margin: auto;
+  }
+  .travoo{
+    positon:absolute;
+    width:300px;
+    text-align:center;
+    font-size:15px;
+    line-height:2;
+    margin:auto;
+  }
+}
+
+@media (max-width:600px){
+  .app_store_margin{
+    margin: auto;
+  }
+  .play_store_margin{
+      margin: auto;
+  }
+}
+
+.slide_hp{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left:13px;
+  margin-top:5px;
+  transform: translate(-50%, -50%);
+  z-index:100;
+  background-color: #fff;
+  width: 207px;
+  border-radius:20px;
+}
+
+@media only screen and (max-width:380px){
+  .slide_hp{
+    margin-left:8px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:360px){
+  .slide_hp{
+    margin-left:9px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:380px){
+  .slide_hp{
+    margin-left:10px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:500px){
+  .slide_hp{
+    margin-left:12px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:600px){
+  .slide_hp{
+    margin-left:13px;
+    margin-top:5px;
+    width: 207px;
+  }
+}
+
+.slide_hp_2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index:100;
+  background-color: #fff;
+  width: 207px;
+  border-radius:20px;
+}
+
+@media only screen and (max-width:380px){
+  .slide_hp_2{
+    margin-left:12px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:360px){
+  .slide_hp_2{
+    margin-left:12px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:380px){
+  .slide_hp_2{
+    margin-left:14px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:500px){
+  .slide_hp_2{
+    margin-left:18px;
+    margin-top:5px;
+    width: 35%;
+  }
+}
+@media only screen and (min-width:600px){
+  .slide_hp_2{
+    margin-left:22px;
+    margin-top:5px;
+    width: 207px;
+  }
+}
+
+.explore{
+  color:#0100F0 ;font-size:30px;margin-top:50px;
+}
+
+@media only screen and (max-width:600px){
+  .explore{
+    color:#0100F0 ;font-size:20px;margin-top:30px;text-align:center;
+  }
+}
+.explore_detail{
+  color:#000; line-height: 2;text-align:justify;
+}
+@media only screen and (max-width:600px){
+  .explore_detail{
+    text-align:justify;font-size:15px;
+  }
+}
+.explore_2{
+  line-height:60px;color:#0100F0 ;font-size:50px;margin-top:70px;text-align:center;
+}
+@media only screen and (max-width:600px){
+  .explore_2{
+  font-size:20px;margin-top:0px;
+  }
+}
+.detail_explore_2{
+  text-align:center;color:#000;font-size:20px; line-height: 2;
+}
+@media only screen and (max-width:600px){
+  .detail_explore_2{
+    font-size:15px;margin-top:-50px;
+  }
+}
+.detail_why_us{
+margin:auto;
+margin-top:-30px;
+width:300px;
+color:#000;
+text-align:center;
+}
+@media only screen and (max-width:600px){
+  .detail_why_us{
+  margin:auto;
+  margin-top:-30px;
+  margin-bottom:50px;
+  width:250px;
+  color:#000;
+  text-align:center;
+  font-size: 15px;
+  line-height: 2;
+  }
+}
+.maskot_title{
+color:Black;font-size:25px;text-align:center;margin-top:100px;
+}
+@media only screen and (max-width:600px){
+  .maskot_title{
+  color:Black;font-size:20px;text-align:center;margin-top:50px;
+  }
+}
+.maskot_description{
+  text-align:center;color:black;margin-top:-30px
+}
+@media only screen and (max-width:600px){
+  .maskot_description{
+    text-align:center;color:black;margin-top:-30px;font-size:15px;
+  }
+}
+.maskot_travee{
+  width:50%
+}
+@media only screen and (max-width:600px){
+  .maskot_travee{
+    width:30%
+  }
+}
+.travee_title{
+  color:#0100F0;text-align:left;margin-top:0px;
+}
+@media only screen and (max-width:600px){
+  .travee_title{
+  text-align:center;
+  font-size:20px;
+  }
+}
+.travaa_title{
+  color:#0100F0;text-align:center;margin-top:20px;
+}
+@media only screen and (max-width:600px){
+  .travaa_title{
+  text-align:center;
+  font-size:20px;
+  }
+}
+.yoi{
+position:relative;
+margin-top:-5px;
+background-color:#fbfbfb;
+height:560px;
+}
+@media only screen and (max-width:600px){
+  .yoi{
+  position:relative;
+  margin-top:-5px;
+  background-color:#fbfbfb;
+  height:1300px;
+  }
+}
+.yoi2{
+margin-top:50px;
+background-color:#fbfbfb;
+height:800px;
+}
+@media only screen and (max-width:600px){
+  .yoi2{
+    height:650px;
+    }
+}
+.yoi3{
+margin-top:-150px;
+background-color:#fbfbfb;
+height:900px;
+}
+@media(max-width:600px){
+  .yoi3{
+  margin-top:50px;
+  background-color:#fff;
+  height:1550px;
+  }
+}
+.yae_hide{
+  display: none;
+}
+@media only screen and (max-width:600px){
+  .yae_hide{
+    display: inline;
+    margin-top:50px;
+  }
+}
+.yae{
+margin-top:150px;
+}
+@media only screen and (max-width:600px){
+  .yae{
+  margin-top:20px;
+  }
+}
+.yae2{
+margin-top:150px;
+}
+@media only screen and (max-width:600px){
+  .yae2{
+  display: none;
+  }
+}
+
+.yoa{
+position:relative;
+background-color:#fff;
+height:560px;
+}
+
+@media only screen and (max-width:600px){
+  .yoa{
+  position:relative;
+  background-color:#fff;
+  height:1000px;
+  }
+}
+.travoo_maskot{
+  width:45%
+}
+@media only screen and (max-width:600px){
+  .travoo_maskot{
+    width:30%;
+  }
+}
+.travoo_maskot_hide_1{
+  display:none;
+}
+@media only screen and (max-width:600px){
+  .travoo_maskot_hide_1{
+    display:inline;
+    margin-top:100px;
+  }
+}
+
+.mtt_bc{
+  width:100%;position:absolute;z-index:1
+}
+
+@media (max-width:600px){
+  .mtt_bc{
+  display:none;
+  }
+}
+
+.mtt_title{
+color:Black;font-size:25px;text-align:center
+}
+
+@media (max-width:600px){
+  .mtt_title{
+  color:Black;font-size:20px;text-align:center
+  }
+}
+.awan{
+  width:100%;margin-top:0px
+}
+@media (max-width:600px){
+  .awan{
+    display:none;
+}
+}
+.mtt_des{
+  text-align:center;color:black;margin-top:-30px
+}
+
+@media (max-width:600px){
+  .mtt_des{
+    text-align:center;color:black;margin-top:-30px;font-size:15px;
+  }
+}
+.travoo_maskot_hide_2{
+  display:inline;
+  margin-top: 30px;
+
+}
+@media only screen and (max-width:600px){
+  .travoo_maskot_hide_2{
+    display:none;
+  }
+}
+.mtt_foto{
+  display: inline;
+}
+
+.mtt_foto_hide{
+  display: none;
+}
+
+@media (max-width:600px){
+  .mtt_foto{
+  display:none;
+  }
+  .mtt_foto_hide{
+    margin-top:-50px;
+    display: inline;
+  }
+}
+
+.button_special{
+border: none;
+color: white;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+margin: 4px 2px;
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.button_special_2{
+border-radius:10px;
+border: none;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+margin: 4px 2px;
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.button_special_hover{
+background-color: white;
+color: #0100F0 ;
+border: 2px solid #0100F0 ;
+}
+
+.button_special_hover_2{
+background-color: #0404C9;
+color: #fff ;
+border: 2px solid #0404C9 ;
+}
+
+.button_special_hover:hover{
+background-color: #0100F0 ;
+color: white;
+}
+
+.button_special_hover_2:hover{
+background-color: #0100F0 ;
+color: white;
+border: 2px solid #fff ;
+}
+
+.testing{
+padding-left:20px;
+margin:auto;
+}
+h1, h2 {
+font-weight: normal;
+}
+
+ul {
+list-style-type: none;
+padding: 0;
+}
+
+li {
+display: inline-block;
+margin: 0 10px;
+}
+
+a {
+color: #42b983;
+}
+.text {
+  display:inline;
+}
+.icon_1{
+  width:20px;margin-left:5px
+}
+@media only screen and (max-width:600px){
+  .icon_1{
+  text-align: center;
+  }
+}
+
+@media only screen and (max-width:600px){
+  .text {
+    display:block;
+    text-align:center;
+  }
+}
